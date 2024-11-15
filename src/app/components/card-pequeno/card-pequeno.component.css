@@ -1,0 +1,24 @@
+.container-card-pequeno{
+    width: 800px;
+}
+
+.container-card-pequeno-conteudo{
+    display: flex;
+    flex-direction: row;
+}
+
+.card-pequeno-foto{
+    width: 300px;
+    min-width: 300px;
+    margin-right: 20px;
+}
+
+.card-pequeno-titulo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+hr{
+    margin: 15px 0;
+}

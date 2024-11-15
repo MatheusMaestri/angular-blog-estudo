@@ -1,0 +1,15 @@
+.menu-tiulo-container{
+    color: #ffffff;
+}
+
+.menu-tiulo-container h1{
+    margin: 15px 0;
+    font-size: 10em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+}
+
+.menu-tiulo-container hr{
+    margin: 10px 0;
+}
