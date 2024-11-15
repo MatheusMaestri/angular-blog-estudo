@@ -7,7 +7,7 @@
     flex-direction: row;
 }
 
-.card-pequeno-foto{
+.card-pequeno-foto img{
     width: 300px;
     min-width: 300px;
     margin-right: 20px;
